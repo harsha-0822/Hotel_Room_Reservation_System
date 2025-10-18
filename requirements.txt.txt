@@ -1,0 +1,10 @@
+# Core Python Libraries
+sqlite3
+pandas
+
+# Jupyter Environment
+notebook
+jupyterlab
+
+# Optional Tools
+ipykernel
